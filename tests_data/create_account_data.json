@@ -1,0 +1,25 @@
+{
+  "valid_credential": [
+    {
+     "username": "will",
+     "password": "will"
+    }
+    ],
+
+  "name": "Wisdom",
+  "phone": "6372924295",
+  "website": "Treenetra.com",
+  "fax": "7890",
+  "email": "treenetr@gmail.com",
+  "billing_street": "IRC-Village",
+  "billing_city": "Bhubaneswar",
+  "billing_state": "Odisha/Indian",
+  "billing_postalcode": "752030",
+  "billing_country": "India",
+  "shipping_street": "Balugaon",
+  "shipping_city": "Khordha",
+  "shipping_state": "Odisha/Indian",
+  "shipping_postalcode": "752012",
+  "shipping_country": "India",
+  "description": "Please delivery faster"
+}
